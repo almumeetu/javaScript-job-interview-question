@@ -26,3 +26,11 @@ console.log(x);
 console.log(y);
 
 console.log(z);
+saikatShihab("Saikat", "My Name Is ");
+saikatShihab("Shihab", "My Brother Name is ");
+saikatShihab("Raton", "My Friends Name Is ");
+
+
+let a = myFunction(4, 1)
+
+let b = myFunction(5, 9)

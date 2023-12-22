@@ -36,7 +36,7 @@ let a = myFunction(4, 1)
 
 let b = myFunction(5, 9);
 
-
+ 
 
 let c = 9.656;
 document.getElementById("demo").innerHTML =

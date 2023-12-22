@@ -43,3 +43,10 @@ document.getElementById("demo").innerHTML =
   c.toExponential(2) + "<br>" + 
   c.toExponential(4) + "<br>" + 
   c.toExponential(6);
+  let c = 9.656;
+  
+document.getElementById("demo").innerHTML =
+  c.toExponential() + "<br>" + 
+  c.toExponential(2) + "<br>" + 
+  c.toExponential(4) + "<br>" + 
+  c.toExponential(6);
